@@ -6,8 +6,7 @@
 
 배워야 할 것
 
--변수
-
+- 변수
 - 값을 화면에 출력하는 법
 - +, % 등의 간단한 연산자 사용
 - setInterval, clearInterval 내부 API 사용법
