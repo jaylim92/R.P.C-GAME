@@ -33,3 +33,7 @@ section {
     justify-content: center;
     align-items: center;
 }
+
+.hidden {
+    visibility: hidden;
+}
